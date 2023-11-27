@@ -1,0 +1,34 @@
+.navClass {
+	text-decoration: none;
+	font-weight: bold;
+	color: white;
+}
+
+.active {
+	font-size: larger;
+}
+header {
+	min-height: 8vh;
+}
+main {
+	min-height: 90vh;
+	background-image: url(../public/img/1292924.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%;
+}
+
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
